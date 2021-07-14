@@ -1,1 +1,1 @@
-# Webpack, Sass, React Boilerplate
+# React, Webpack, Sass - Boilerplate
