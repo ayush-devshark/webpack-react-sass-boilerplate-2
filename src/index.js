@@ -1,4 +1,4 @@
-console.log('hello');
+import './styles/index.scss';
 
 const artisy = {
     asc: 'sac',
