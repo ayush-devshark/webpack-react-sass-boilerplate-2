@@ -1,7 +1,6 @@
+import React from 'react';
+import { render } from 'react-dom';
 import './styles/index.scss';
+import App from './components/App';
 
-const artisy = {
-    asc: 'sac',
-    aa: 'sac',
-    asc: 'sac',
-};
+render(<App />, document.getElementById('root'));
